@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "iBreak | Blog",
-    "base_url": "https://imod668.githu.io",
+    "base_url": "https://imod668.github.io/ibreak",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
