@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "iBreak | Blog",
+    "base_url": "https://imod668.github.io/",
+    "base_path": "/ibreak",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "iBreak Blog"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Blog news, ios, jailbreak, android..."
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+  },
+
+  "contactinfo": {
+    "address": "Tay Ninh_Viet Nam.",
+    "email": "imod668@gmail.com",
+    "phone": "0981801810"
+  }
+}
